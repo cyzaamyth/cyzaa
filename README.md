@@ -8,7 +8,7 @@ I like to learn a lot from the open-source community and I wish to collaborate f
 OSCP+/OSCP - Offensive Security Certified Professional</br>
 CEH - Certified Ethical Hacker</br>
 MCSA - Mircosoft Certified System Administrator</br>
-RHCSA - Red HAt Ceritified System Adminitrator</br>
+RHCSA - Red Hat Ceritified System Adminitrator</br>
 
 💬 Ask me about anything in cyber security, I am happy to help </br>
 📫 you can reach out to me: https://www.linkedin.com/in/vaibhavi-shirurkar/ </br>
