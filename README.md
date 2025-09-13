@@ -10,9 +10,9 @@ CEH - Certified Ethical Hacker</br>
 MCSA - </br>
 RHCSA - </br>
 
-💬 Ask me about anything in cyber security, I am happy to help;
-📫 you can reach out to me: https://www.linkedin.com/in/vaibhavi-shirurkar/
-🌐 Know more about me: By interacting with me.
+💬 Ask me about anything in cyber security, I am happy to help </br>
+📫 you can reach out to me: https://www.linkedin.com/in/vaibhavi-shirurkar/ </br>
+🌐 Know more about me: By interacting with me.</br>
 
-Cheers,
+Cheers,</br>
 Cyzaa
