@@ -11,7 +11,7 @@ MCSA - Mircosoft Certified System Administrator</br>
 RHCSA - Red Hat Ceritified System Adminitrator</br>
 
 📫 you can reach out to me: https://www.linkedin.com/in/vaibhavi-shirurkar/ </br>
-🌐 Know more about me: By interacting with me.</br>
+🌐 Know more about me and my joruney: Drop a message on LinkedIn.</br>
 
 ### Keep Learning! Keep Hacking!</br>
 Cheers,</br>
